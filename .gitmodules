@@ -1,9 +1,7 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "theme/ananke"]
-	path = theme/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "project/theme/ananke"]
 	path = project/theme/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "project/docs"]
+	path = project/docs
+	url = git@github.com:Kerzer/Kerzer.github.io.git
+	branch = main
