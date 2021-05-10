@@ -1,5 +1,5 @@
 baseURL = "Kerzer.github.io"
 languageCode = "en-us"
 title = "Evictions in NYC"
-theme = "ananke"
+theme = "color-your-world"
 publishDir = "docs"

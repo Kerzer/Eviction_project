@@ -5,3 +5,9 @@
 	path = project/docs
 	url = git@github.com:Kerzer/Kerzer.github.io.git
 	branch = main
+[submodule "project/theme/color-your-world"]
+	path = project/theme/color-your-world
+	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+[submodule "project/themes/color-your-world"]
+	path = project/themes/color-your-world
+	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
