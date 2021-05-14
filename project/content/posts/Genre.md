@@ -8,6 +8,7 @@ weight=11
 
 
 ![Genre]({{< baseurl >}}/Genre.png)
+<sub><sup>[Edward Segel and Jeffrey Heer. Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)</sup></sub>
 
 *Visual narrative* tactics are visual applications which can be used to assist the narrative, which is  further subdivided into three segregated sections: visual structuring, highlighting, and transition guidance. We will introduce the tools that we use for data visualization from each of three categories.  
 > - **Visual structuring:** The concept of visual structuring is related to the narrative structure, and it allows viewers to identify their position within the larger organization of the visualization. In this category, we use _Consistent Visual Platform_ as the main tool to present results, which is the common choice of techniques under visual structuring. The user only need to 
@@ -23,7 +24,7 @@ Also, the *narrative structure* tactics is used to assist and facilitate the nar
 > - **Interactivity:** _Interactivity_ refers to the different ways a viewer can manipulate the visualization. We visualize the data by implementing _Filtering/Selection/Search so that the users can easily select the specific results of data they want. 
 > - **Messaging:** It is a way about visualization communicating theories and commentary to the viewer. _Captions/Headlines_ are adopted in our figures in order to present the main idea or way of the visualization. Therefore, viewers can have better understanding of visualized results.
 
-[Edward Segel and Jeffrey Heer. Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
+
 
 1. [Data selection](https://kerzer.github.io/posts/data_selection/)
 2. [**Genre**](https://kerzer.github.io/posts/Genre/)

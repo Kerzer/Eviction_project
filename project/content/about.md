@@ -23,9 +23,11 @@ These are creation tools:
 * https://themes.gohugo.io/hugo-theme-color-your-world/
 * https://mertbakir.gitlab.io/hugo/plotly-with-hugo/
 * https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/github-pages-blog/
+* https://docs.bokeh.org/en/latest/index.html
 
 The data collceted and used:
 
 * https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4 
 * https://data.wu.ac.at/schema/bronx_lehman_cuny_edu/
 * https://en.wikipedia.org/wiki/New_York_City_Council (for boroughs)
+with https://wikitable2csv.ggor.de/

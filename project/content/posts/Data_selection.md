@@ -1,12 +1,12 @@
 +++
 title= "Data selection"
 tags = [
-   "Data Wrangling",
     "Extra",
 ]
 weight = 10
 +++
 
+Everything inside of the extra posts can also be found inside our [notebook](https://github.com/Kerzer/Eviction_project/blob/main/project/Final_Project.ipynb)
 
 The main inspiration for this project came from the work concerning [crime in San Francisco](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry),
 which was done in relation to [course 02806](https://kurser.dtu.dk/course/02806) about analysis and visualization of data. 

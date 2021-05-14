@@ -3,7 +3,6 @@ title= "General trends"
 tags =[
 "Content",
 "Sub story",
-"All boroughs",
 ]
 weight=3
 +++

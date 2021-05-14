@@ -23,10 +23,10 @@ Then look through related stories
 there is also [extra](https://kerzer.github.io/tags/extra) posts explaning why the visualizations were chosen, along
 with other more meta related topics such as:
 
-* [Data Selection](https://kerzer.github.io/posts/Data_selection)
-* [Genre](https://kerzer.github.io/posts/Genre)
-* [Discussion of process](https://kerzer.github.io/posts/Discussion)
-* [Work distribution](https://kerzer.github.io/posts/Work_distribution)
+* [Data Selection](https://kerzer.github.io/posts/data_selection)
+* [Genre](https://kerzer.github.io/posts/genre)
+* [Discussion of process](https://kerzer.github.io/posts/discussion)
+* [Work distribution](https://kerzer.github.io/posts/work_dist)
 
 This extra content can also be viewed in a [notebook](https://github.com/Kerzer/Eviction_project/blob/main/project/Final_Project.ipynb) 
 on [Github](https://github.com/Kerzer/Eviction_project/tree/main/project) along with all the content for the website.
