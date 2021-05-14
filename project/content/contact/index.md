@@ -8,12 +8,12 @@ sitemapExclude  : true
 
 Contributors to this project.
 
-You can also find me at:
+You can find the project at:
 
 {{< social >}}
 
 ---
 
-Or drop me a good ol' email:
+Or drop us a good ol' email:
 
 {{< contact-form >}}

@@ -1,17 +1,24 @@
 +++
 title= "Data selection"
-date= 2021-05-13
 tags = [
-    "New York city",
-    "Data Wrangling",
-    "Intro",
+   "Data Wrangling",
+    "Extra",
 ]
+weight = 10
 +++
 
-Initially the selection of data was based on something that had impact on people within cities,
-along with being something that was possbile to find in a public data base. The [Eviction dataset](imgur.com)
+
+The main inspiration for this project came from the work concerning [crime in San Francisco](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry),
+which was done in relation to [course 02806](https://kurser.dtu.dk/course/02806) about analysis and visualization of data. 
+Based of the two initial projects done in the course one of the main features that stuck out was the use of [geojson](https://en.wikipedia.org/wiki/GeoJSON)
+and [plotly](https://plotly.com/) to add overlays to maps. These tools allowed us to make strong visualizations which allows the user to explore
+and understand the data at thier own pace.
+
+Initially the search for data was based on something that had impact on people within cities,
+along with being something that was possbile to find in a public data base. The
+ [Eviction dataset](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4)
 fitted those criteria, along with the fact it is rather suble why you would be evicted, which could be explored
-further with machine learning and the use of other data sets.
+further with data analysis.
 
 
 At a closer expection of the data set the following observations were made.
@@ -32,3 +39,7 @@ Does other information such as latitude and longitude have a relationship with e
 What are the deeper causes of the phenomenon of eviction surge? These fascinating questions
 are worthy of our in-depth exploration.
 
+1. [**Data selection**](https://kerzer.github.io/posts/data_selection/)
+2. [Genre](https://kerzer.github.io/posts/genre/)
+3. [Discussion](https://kerzer.github.io/posts/discussion/)
+4. [Work Distribution](https://kerzer.github.io/posts/work_dist/)

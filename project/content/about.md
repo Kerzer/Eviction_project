@@ -12,12 +12,20 @@ Based of the two initial projects done in the course one of the main features th
 and [plotly](https://plotly.com/) to add overlays to maps. These tools allowed us to make strong visualizations which allows the user to explore
 and understand the data at thier own pace.
 
-Here are the results of creating the webpage along with some of the most usefule tools to create it:
+Here are the results of creating the webpage along with the notebooks created:
 
 * https://github.com/Kerzer/Eviction_project
 * https://github.com/Kerzer/Kerzer.github.io
+* https://github.com/Kerzer/Eviction_project/blob/main/project/Final_Project.ipynb
+
+
+These are creation tools:
 * https://themes.gohugo.io/hugo-theme-color-your-world/
 * https://mertbakir.gitlab.io/hugo/plotly-with-hugo/
 * https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/github-pages-blog/
 
-The data collceted and used are 
+The data collceted and used:
+
+* https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4 
+* https://data.wu.ac.at/schema/bronx_lehman_cuny_edu/
+* https://en.wikipedia.org/wiki/New_York_City_Council (for boroughs)
