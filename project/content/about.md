@@ -14,7 +14,7 @@ and understand the data at thier own pace.
 
 Here are the results of creating the webpage along with the notebooks created:
 
-* https://github.com/Kerzer/Eviction_project
+* https://github.com/Kerzer/Eviction_project/tree/main/project
 * https://github.com/Kerzer/Kerzer.github.io
 * https://github.com/Kerzer/Eviction_project/blob/main/project/Final_Project.ipynb
 
