@@ -31,3 +31,4 @@ The data collceted and used:
 * https://data.wu.ac.at/schema/bronx_lehman_cuny_edu/
 * https://en.wikipedia.org/wiki/New_York_City_Council (for boroughs)
 with https://wikitable2csv.ggor.de/
+* https://github.com/Kerzer/Eviction_project/blob/main/project/DemographicsNY.xlsx

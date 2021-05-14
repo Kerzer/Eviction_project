@@ -25,8 +25,6 @@ are becoming more uncommon in New York City.
 ![eviction_by_year]({{< baseurl >}}/eviction_by_year.png)
 <sub><sup>If it is hard to read try opening it by right clicking or [open here](https://kerzer.github.io//eviction_by_year.png)</sup></sub>
 
-**Måske lav det her om til en kurve**
-
 Looking at the eviction count for the year 2020 it is drasticly lower than the previous years. The main reason for this is that 
 evctions [were stopped by the goverment](https://ny.curbed.com/2020/3/16/21180842/coronavirus-new-york-state-eviction-moratorium)
 because of [Covid-19](https://www.worldometers.info/coronavirus/country/us/) which struck New York City early on in the pandemic.
@@ -68,7 +66,7 @@ for ease of understanding.
 ![EV]({{< baseurl >}}/evictions.png)
 <sub><sup>If it is hard to read try opening it by right clicking or [open here](https://kerzer.github.io//evictions.png)</sup></sub>
 
-As it is now clear where the evictions happend in New York City it becomes important to explore **why** they happen.
+As it is now clear where the evictions happend in New York City which are mainly in council district 14 to 17 in The Bronx. It becomes important to explore **why** the evictions happen.
 
 ### Demographics
 As New York City contains a large variety of people coming for all over the world, would be interesting to see whether evictions are
@@ -83,20 +81,11 @@ ends of number of evictions. Here the demograpic differences are taken into acco
 ![Stats_GT]({{< baseurl >}}/stats_GT.png)
 <sub><sup>[open here](https://kerzer.github.io//stats_GT.png)</sup></sub>
 
-To mention a few world renowned attractions and institutions found on Manhatten [Wall Street](https://www.google.com/maps/place/Wall+St,+New+York,+NY,+USA/@40.720791,-73.9996339,14.25z/data=!4m5!3m4!1s0x89c25a165bedccab:0x2cb2ddf003b5ae01!8m2!3d40.7060361!4d-74.0088256),
-[Times Square](https://www.google.com/maps/place/Times+Square/@40.7574645,-73.9869094,16.5z/data=!4m5!3m4!1s0x89c25855c6480299:0x55194ec5a1ae072e!8m2!3d40.7579747!4d-73.9855426),
-and [Boardway](https://www.broadway.com/) are the three first of a [long list](https://www.nyctourist.com/nyc-most-popular-attractions-map) of places in Manhatten which is commonly known even
-to most people in Denmark. Manhatten is clearly **the** place to be, which also explains why eviction rates are low,
-as this is a place of high barrier of entry and people are less like to enter without already being part of a more
-wealthy segement of the society. 
-
-
-
 
 The largest section of people in Manhatten is white people while The Bronx is mainly
-Hespanic origin. This paints the picture that it is mostly an immigrants and poor section that lives in bronx
-
-#### The Bronx
+Hespanic origin. Apperently it shows in the data that these hespanic areas have a higher
+evition rate. This might be due to immigration from mexico and having worse starting position
+in America compared to native Americans. 
 
 
 #### Staten Island
@@ -115,10 +104,15 @@ lookinig at how many renters are present in Staten Island compared to all other 
 
 ### Complaints In Council districts
 
+The Department of Housing Preservation and Development (HPD)  initiates’ actions in the Housing Court against owners of privately-owned buildings to enforce
+compliance with the housing quality standards. These can be based on tenant complants or initiated by the HDP and includes among others failure to comply with
+orders to provide heat and/or hot water, conditions or acts dangerous to life, health or safety, harassment and/or deprivation of services.  
 
+![complaints]({{< baseurl >}}/complaints.png)
+<sub><sup>[open here](https://kerzer.github.io//complaints.png)</sup></sub>
 
-## Conclusion
-
-
+Council Districts with a lot 
+of these cases are the same as the ones with a lot of evictions. This could be indicative of active attempts by landlords to get rid of their poorer tenants to build or 
+renovate for more affluent renters. It could also be be an expression of people who can only afford to live in sub-standard apartment buildings being more likely to fall behind on the rent.
 
 
