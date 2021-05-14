@@ -27,6 +27,6 @@ Also, the *narrative structure* tactics is used to assist and facilitate the nar
 
 
 1. [Data selection](https://kerzer.github.io/posts/data_selection/)
-2. [**Genre**](https://kerzer.github.io/posts/Genre/)
-3. [Discussion](https://kerzer.github.io/posts/Discussion/)
-4. [Work Distribution](https://kerzer.github.io/posts/Work_dist/)
+2. [**Genre**](https://kerzer.github.io/posts/genre/)
+3. [Discussion](https://kerzer.github.io/posts/discussion/)
+4. [Work Distribution](https://kerzer.github.io/posts/work_dist/)
